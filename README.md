@@ -7,7 +7,7 @@ A simple blockchain application development
  <img width=200px height=200px src="https://i.imgur.com/VELRxXl.png" alt="Project logo"></a>
 </p>
 
-<h3 align="center"> BlockChain Development </h3>
+<h3 align="center"> PrateekCoin </h3>
 
 ---
 
